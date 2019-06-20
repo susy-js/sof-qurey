@@ -1,0 +1,53 @@
+{
+  "_from": "sof-query@2.1.0",
+  "_id": "sof-query@2.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-u/buTrtRCvDkoxKwnYeWUig/gRM=",
+  "_location": "/sof-query",
+  "_phantomChildren": {
+    "lodash": "4.17.11"
+  },
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "sof-query@2.1.0",
+    "name": "sof-query",
+    "escapedName": "sof-query",
+    "rawSpec": "2.1.0",
+    "saveSpec": null,
+    "fetchSpec": "2.1.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/sof-query/-/sof-query-2.1.0.tgz",
+  "_shasum": "bbf6ee4ebb510af0e4a312b09d879652283f8113",
+  "_spec": "sof-query@2.1.0",
+  "_where": "/home/user/susyweb/susyweb-provider-engine",
+  "author": "",
+  "bugs": {
+    "url": "https://octonion.institute/susy-js/sof-query/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "async": "^2.1.2",
+    "json-rpc-random-id": "^1.0.0",
+    "xtend": "^4.0.1"
+  },
+  "deprecated": false,
+  "description": "like susyweb but for minimalists",
+  "devDependencies": {},
+  "homepage": "https://octonion.institute/susy-js/sof-query#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "sof-query",
+  "repository": {
+    "type": "git",
+    "url": "git+https://octonion.institute/susy-js/sof-query.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.1.0"
+}
